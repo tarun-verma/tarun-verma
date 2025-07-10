@@ -1,16 +1,13 @@
-## Hi there 👋
+**</profile page>**
 
-<!--
-**tarun-verma/tarun-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm an aspiring creative in fields of software/systems engineering, music, and literary fiction. [my website](wtfta.run) has more stuff you might be interested in.
 
-Here are some ideas to get you started:
+![image](zur_dante.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+nowadays, the only goal i strive towards in life is to finish whatever i start[^1]
+
+have a nice day ahead!
+
+- - -
+
+[^1]: even if it's a damned `whois` wrapper.
