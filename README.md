@@ -6,7 +6,7 @@ i'm an aspiring creative in fields of software/systems engineering, music, and l
     <img src="./zur_dante.jpg" width="500" height="auto"/>
 </p>
 
-nowadays, the only goal i strive towards in life is to finish whatever i start[^1]
+nowadays, the only goal i strive towards is to finish whatever i start[^1]
 
 have a nice day ahead!
 
